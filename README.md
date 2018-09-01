@@ -23,7 +23,7 @@ Instalação da biblioteca PiCamera no distro [Raspbian](http://www.raspbian.org
     $ sudo apt-get install python-picamera python3-picamera
 
 
-A utilização e o desenvolvimento de testes do Raspberry PI 3 foi realizado em máquina virtual diretamente de um notebook, estando etão a virtualização via VNC (Virtual Network Computing) pelo software [VNC Viwer].(https://www.realvnc.com/pt/connect/download/viewer/)
+A utilização e o desenvolvimento de testes do Raspberry PI 3 foi realizado em máquina virtual diretamente de um notebook, estando etão a virtualização via VNC (Virtual Network Computing) pelo software [VNC Viwer](https://www.realvnc.com/pt/connect/download/viewer/).
 
 Para melhor entendimento, e acompanhar o procedimento para realizar essa virtualização, pode ser seguido o seguinte [**vídeo (Como Usar sem Monitor - RaspberryPi Primeiros Passos - Vídeo #5)**](https://www.youtube.com/watch?v=LTTwwPtYQms&t=371s).
 
